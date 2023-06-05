@@ -6,6 +6,11 @@
   </samp>
 </p>
 
+### Latest Youtube Videos
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+### Stats
 <table>
   <tr>
     <td>
