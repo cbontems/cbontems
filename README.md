@@ -8,14 +8,14 @@
 
 ### Latest Youtube Videos
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=FBYnClE4djU"><img width="140px" src="https://i.ytimg.com/vi/FBYnClE4djU/mqdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=b2x2ITbrsGQ"><img width="140px" src="https://i.ytimg.com/vi/b2x2ITbrsGQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=b2x2ITbrsGQ">Fix Copy / Paste not working in Bricks, to get your structure builder up and running.</a> (Jun 20, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=FBYnClE4djU"><img width="140px" src="https://i.ytimg.com/vi/FBYnClE4djU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FBYnClE4djU">Use landmark roles in Bricks for better accessibility</a> (Jun 19, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=s8Lm04UMN8U"><img width="140px" src="https://i.ytimg.com/vi/s8Lm04UMN8U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=s8Lm04UMN8U">OxyProps 1.6: Discovering Unlimited Icons and More</a> (Apr 12, 2023)<br/></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=a-PQcDbwkYg"><img width="140px" src="https://i.ytimg.com/vi/a-PQcDbwkYg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=a-PQcDbwkYg">Be twice as productive in Bricks with the new Structure Builder.</a> (Mar 23, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=6bWcc2jPKHc"><img width="140px" src="https://i.ytimg.com/vi/6bWcc2jPKHc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=6bWcc2jPKHc">Building an accessible, screen reader focused card in Bricks</a> (Feb 20, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
