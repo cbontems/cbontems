@@ -8,14 +8,14 @@
 
 ### Latest Youtube Videos
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=QZthscxWyro"><img width="140px" src="https://i.ytimg.com/vi/QZthscxWyro/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=QZthscxWyro">An even better Emmet for Oxygen Builder!</a> (Jun 26, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=b2x2ITbrsGQ"><img width="140px" src="https://i.ytimg.com/vi/b2x2ITbrsGQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=b2x2ITbrsGQ">Fix Copy / Paste not working in Bricks, to get your structure builder up and running.</a> (Jun 20, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=FBYnClE4djU"><img width="140px" src="https://i.ytimg.com/vi/FBYnClE4djU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=FBYnClE4djU">Use landmark roles in Bricks for better accessibility</a> (Jun 19, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=s8Lm04UMN8U"><img width="140px" src="https://i.ytimg.com/vi/s8Lm04UMN8U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=s8Lm04UMN8U">OxyProps 1.6: Discovering Unlimited Icons and More</a> (Apr 12, 2023)<br/></td></tr>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=Jfg1OKoI3wI"><img width="140px" src="https://i.ytimg.com/vi/Jfg1OKoI3wI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Jfg1OKoI3wI">Choose to use dark mode, or not, or otther cool modes | Get Started series ep13</a> (Jul 4, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=nwfU9eCPd2I"><img width="140px" src="https://i.ytimg.com/vi/nwfU9eCPd2I/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=nwfU9eCPd2I">Réduce unused CSS by a granualr selection of your Classes Packs | Get Started series ep12</a> (Jul 4, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=dz8FqVvNpAQ"><img width="140px" src="https://i.ytimg.com/vi/dz8FqVvNpAQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=dz8FqVvNpAQ">Choose your classes set for Bricks Class List | Get Started series ep11</a> (Jul 4, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=uE-PknQLm8Y"><img width="140px" src="https://i.ytimg.com/vi/uE-PknQLm8Y/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=uE-PknQLm8Y">A few settings for dealing with Gutenberg | Get Started series ep10</a> (Jul 4, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
