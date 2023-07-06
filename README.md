@@ -8,14 +8,14 @@
 
 ### Latest Youtube Videos
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=Jfg1OKoI3wI"><img width="140px" src="https://i.ytimg.com/vi/Jfg1OKoI3wI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Jfg1OKoI3wI">Choose to use dark mode, or not, or otther cool modes | Get Started series ep13</a> (Jul 4, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=nwfU9eCPd2I"><img width="140px" src="https://i.ytimg.com/vi/nwfU9eCPd2I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=nwfU9eCPd2I">Réduce unused CSS by a granualr selection of your Classes Packs | Get Started series ep12</a> (Jul 4, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=dz8FqVvNpAQ"><img width="140px" src="https://i.ytimg.com/vi/dz8FqVvNpAQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=dz8FqVvNpAQ">Choose your classes set for Bricks Class List | Get Started series ep11</a> (Jul 4, 2023)<br/></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=uE-PknQLm8Y"><img width="140px" src="https://i.ytimg.com/vi/uE-PknQLm8Y/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=uE-PknQLm8Y">A few settings for dealing with Gutenberg | Get Started series ep10</a> (Jul 4, 2023)<br/></td></tr>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=BhES9qkuY1E"><img width="140px" src="https://i.ytimg.com/vi/BhES9qkuY1E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=BhES9qkuY1E">Let&#39;s take the State of CSS 2023 survey together</a> (Jul 5, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=kD8SaYv1a-0"><img width="140px" src="https://i.ytimg.com/vi/kD8SaYv1a-0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=kD8SaYv1a-0">With OxyProps color system, contrast ratio become predictable for any hue | Get Started series ep19</a> (Jul 5, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=5czlbh5L6Do"><img width="140px" src="https://i.ytimg.com/vi/5czlbh5L6Do/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=5czlbh5L6Do">ALWAYS pass your AA or AAA accessibility color contrast requirements | Get Started series ep18</a> (Jul 5, 2023)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=HPB4HGc2NXc"><img width="140px" src="https://i.ytimg.com/vi/HPB4HGc2NXc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=HPB4HGc2NXc">Defining logical colors for a color scheme | Get Started series ep17</a> (Jul 5, 2023)<br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
